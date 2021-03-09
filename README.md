@@ -1,2 +1,2 @@
 # pimpmycourse
-help great academic courses live a new awesome interactive life
+help great academic courses live a new awesome life
